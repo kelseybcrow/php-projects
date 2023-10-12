@@ -1,0 +1,34 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Imagine",
+    "author_name": "John Lennon",
+    "length": 0,
+    "year_of_release": null,
+    "album_name": null
+  },
+  "2": {
+    "id": 2,
+    "name": "Imagine 2",
+    "author_name": "John Lennon",
+    "length": 0,
+    "year_of_release": null,
+    "album_name": null
+  },
+  "3": {
+    "id": 3,
+    "name": "Let it be",
+    "author_name": "The Beatles",
+    "length": 0,
+    "year_of_release": null,
+    "album_name": null
+  },
+  "4": {
+    "id": 4,
+    "name": "Let it be",
+    "author_name": "The Beatles",
+    "length": 153,
+    "year_of_release": null,
+    "album_name": null
+  }
+}
